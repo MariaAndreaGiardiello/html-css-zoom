@@ -12,4 +12,33 @@
 
 .header-box{
     background-color: black;
+    flex-direction: row;
+    display: flex;
+    padding: 10px 5px;
+}
+
+.fa-solid, .fa-record-vinyl, .fa-pause, .fa-play, .recording, .fa-shield, .view{
+    color: white;
+    padding: 0 5px;
+}
+
+.user-box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.img-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-box{
+    margin: 5px 5px;
+}
+
+footer{
+    background-color: black;
+    height: 100px;
 }
