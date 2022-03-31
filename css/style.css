@@ -1,0 +1,15 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-small{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.header-box{
+    background-color: black;
+}
